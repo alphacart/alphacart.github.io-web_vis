@@ -1,5 +1,5 @@
 
-Created a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting [weather data](Resources/assets/cities.csv).
+Created a visualization dashboard website using visualizations. Plotted [weather data](Resources/assets/cities.csv).
 
 ![Images/landingResize.png](Images/landingResize.png)
 
@@ -17,8 +17,6 @@ The website must, at the top of every page, have a navigation menu that:
 
 Finally, the website deployed to GitHub pages.
 
-
-### Bonuses
 
 * Use a bootstrap theme to customize your website. Used a tool like [Bootswatch](https://bootswatch.com/). 
 * Added extra visualizations for better comparisons.
