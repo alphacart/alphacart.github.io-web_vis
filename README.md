@@ -1,5 +1,5 @@
 
-Created a visualization dashboard website using visualizations. Plotted [weather data](Resources/assets/cities.csv).
+Created a visualization dashboard website. Plotted [weather data](Resources/assets/cities.csv).
 
 ![Images/landingResize.png](Images/landingResize.png)
 
